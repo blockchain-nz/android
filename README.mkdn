@@ -34,3 +34,5 @@ All supported devices are built weekly and periodically as changes are committed
 You can view the current build statuses at [LineageOS Buildkite](https://buildkite.com/lineageos).
 
 Builds produced weekly by the buildbot can be downloaded from [LineageOS downloads](https://download.lineageos.org/).
+
+Try update
